@@ -9,7 +9,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment variables
-.env
 
 # OS files
 .DS_Store
@@ -26,4 +25,4 @@ Thumbs.db
 coverage/
 
 # VSCode
-.vscode/
+config.bat
